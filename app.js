@@ -10,6 +10,28 @@ import connectToDatabase from './database/mongodb.js';
 import errorMiddleware from './middlewares/error.middleware.js';
 import cookieParser from 'cookie-parser';
 
+/**
+ * =============================
+ * Subscription Tracker Backend
+ * Express.js Server Configuration
+ * =============================
+ * 
+ * This file initializes the Express application, sets up middleware, and defines routes
+ * for handling authentication, user management, and subscription tracking.
+ * 
+ * Key Components:
+ * - Express middlewares for JSON parsing, URL-encoded data, and cookie handling.
+ * - Route handlers for:
+ *    - Authentication (/api/v1/auth)
+ *    - User Management (/api/v1/users)
+ *    - Subscription Management (/api/v1/subscriptions)
+ * - Global Error Handling Middleware for catching runtime errors.
+ * - Root route ("/") to check server status.
+ * - Server starts listening on configured PORT and establishes MongoDB connection.
+ * 
+ * This is the entry point of the Subscription Tracker API.
+ */
+
 
 const app = express();
 app.use(express.json());
