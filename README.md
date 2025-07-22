@@ -28,3 +28,15 @@ Features:
 ✅ Error Handling & Validation
 
 ✅ API Documentation (Swagger/OpenAPI - optional)
+
+
+
+
+🚀 Possible Extensions:
+📧 Email or SMS reminders for subscription renewals
+
+📊 Analytics Dashboard for subscription usage
+
+📝 User Management with Roles & Permissions
+
+📱 Frontend Integration (React / Angular / Vue)
