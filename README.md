@@ -8,3 +8,23 @@ Features:
 -> Renewal reminders and notifications
 -> Summary dashboard for monthly/annual expenses
 -> Export data for reports
+
+
+🔧 Core Features:
+✅ User Authentication (Optional JWT)
+
+✅ Add / Edit / Delete Subscriptions
+
+✅ Track Subscription Start, End Date, and Payment Details
+
+✅ Renewal & Expiry Notifications (via console or integration-ready)
+
+✅ Filter & Search Subscriptions
+
+✅ RESTful APIs with CRUD Operations
+
+✅ Data Persistence with Database (e.g., MySQL / MongoDB / PostgreSQL)
+
+✅ Error Handling & Validation
+
+✅ API Documentation (Swagger/OpenAPI - optional)
