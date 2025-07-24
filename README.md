@@ -1,7 +1,7 @@
 # Subscription_Tracking_SIMPLE-BACKEND-PROJECT
  A simple and efficient tool to manage and track all your personal or business subscriptions in one place. Easily monitor due dates, costs, billing cycles, and get notified before renewals. Ideal for budget-conscious users and small businesses looking to avoid surprise charges.
 
-Features:
+Features include:
 
 -> Add, edit, and delete subscriptions
 -> Track billing dates, amounts, and payment methods
@@ -11,6 +11,7 @@ Features:
 
 
 🔧 Core Features:
+
 ✅ User Authentication (Optional JWT)
 
 ✅ Add / Edit / Delete Subscriptions
@@ -33,6 +34,7 @@ Features:
 
 
 🚀 Possible Extensions:
+
 📧 Email or SMS reminders for subscription renewals
 
 📊 Analytics Dashboard for subscription usage

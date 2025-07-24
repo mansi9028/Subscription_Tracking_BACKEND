@@ -16,6 +16,7 @@ import cookieParser from 'cookie-parser';
  * Express.js Server Configuration
  * =============================
  * 
+ * 
  * This file initializes the Express application, sets up middleware, and defines routes
  * for handling authentication, user management, and subscription tracking.
  * 
@@ -29,7 +30,9 @@ import cookieParser from 'cookie-parser';
  * - Root route ("/") to check server status.
  * - Server starts listening on configured PORT and establishes MongoDB connection.
  * 
+ * 
  * This is the entry point of the Subscription Tracker API.
+ * 
  */
 
 
